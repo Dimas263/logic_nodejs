@@ -1,6 +1,7 @@
-# logic_nodejs
+# <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> logic Programming nodejs
 logic programming
 
+# Source
 ## Belanja + Poin
 input :
 ```javascript
