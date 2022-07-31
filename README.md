@@ -1,5 +1,5 @@
 # <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> logic Programming nodejs
-logic programming
+### logic programming for backend test and live coding
 
 # Source
 ## Belanja + Poin
